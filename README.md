@@ -1,5 +1,5 @@
-<img align="right" src="https://user-images.githubusercontent.com/1569988/159409536-0a1eec62-2b8a-4a37-bb5d-fe2cbcc88dcd.svg" width="300"/>
-  
+<img align="right" src="https://user-images.githubusercontent.com/61736137/165254138-70830fcb-b25a-42b0-a8a4-b90678bcb2a2.svg" width="300"/>
+
 <h1> Hi, I'm Dream Coder Ellie <img src="https://user-images.githubusercontent.com/1569988/159394239-e0c43e47-0215-4e4f-983b-559c1994a9f7.png" height="180"></h1>
 
 <p>
