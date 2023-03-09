@@ -69,18 +69,18 @@
   <tbody>
     <tr>
       <td>
-        <a href="https://academy.dream-coding.com/courses/react-basic" title="리액트 개념 정리 + 유튜브 클론 코딩 외 실전 프로젝트 완성">
-          <img align="center" src="https://import.cdn.thinkific.com/292401/courses/934247/YHsNXQEYRbOEns6ISYIu_React%20Course%20Thumbnail.png" width="300" alt-text="React Course">
+        <a href="https://academy.dream-coding.com/courses/react" title="리액트 개념정리 · 클론코딩">
+          <img align="center" src="https://d2lmphbmp3ptuw.cloudfront.net/assets/React_Course_2022_Thumbnail_1_22adc8b602.gif" width="300" alt-text="React Course">
         </a>
       </td>
       <td>
-        <a href="https://academy.dream-coding.com/courses/typescript" title="타입스크립트 + 객체지향 프로그래밍 마스터">
-          <img align="center" src="https://import.cdn.thinkific.com/292401/CCujpdfRGCa48lfjCmyg_TypeScript%20Course%20Thumbnail%20%284%29.png" width="300" alt-text="TypeScript Course">
+        <a href="https://academy.dream-coding.com/courses/typescript" title="타입스크립트·객체지향 프로그래밍">
+          <img align="center" src="https://d2lmphbmp3ptuw.cloudfront.net/assets/Type_Script_Course_Thumbnail_06091d592c.gif" width="300" alt-text="TypeScript Course">
         </a>
       </td>
       <td>
-        <a href="https://academy.dream-coding.com/courses/node" title="노드로 배우는 백엔드 A-Z (익스프레스, 데이터베이스, 트위터 클론코딩)">
-          <img align="center" src="https://import.cdn.thinkific.com/292401/courses/1375371/7iZPtc2VQpGko36mQlZR_thumbnail.png" width="300" alt-text="NodeJS Course">
+        <a href="https://academy.dream-coding.com/courses/node" title="노드로 배우는 백엔드 A-Z">
+          <img align="center" src="https://d2lmphbmp3ptuw.cloudfront.net/assets/node_course_thumbnail_c0abdc5412.webp" width="300" alt-text="NodeJS Course">
         </a>
       </td>
     </tr>
